@@ -1,7 +1,12 @@
-// const utils = require('./utils.js')
-// console.log(utils.name)
-// console.log(utils.add(2,1))
+//import chalk from 'chalk'
+const chalk = require('chalk')
+console.log(chalk.red.bold('Sucessssssssss!'))
 
-const notes = require('./notes.js')
 
-console.log(notes.getNotes())
+// const validator = require('validator')
+// const notes = require('./notes.js')
+
+// console.log(notes.getNotes())
+
+// console.log('valida urm')
+// console.log(validator.isURL('anderson.faria@intelbras'))
